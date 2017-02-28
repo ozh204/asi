@@ -54,7 +54,7 @@ Michael Hartl, [Learn Enough Git to Be Dangerous](https://www.learnenough.com/gi
 9. Motławski, Łukasz
 10. Narożnik, Kacper
 11. Osowska, Aleksandra 21.02
-12. Sasin, Jacek
+12. [Sasin, Jacek](https://github.com/jsasin/asi_lab)
 
 ### Grupa 2
 
@@ -66,9 +66,9 @@ Michael Hartl, [Learn Enough Git to Be Dangerous](https://www.learnenough.com/gi
 18. [Kacprzak, Mateusz](https://github.com/implssv/MessageApp). [MessageApp](http://serene-spire-89656.herokuapp.com)
 19. Kaczmarz, Tomasz 21.02
 20. Kawa, Piotr 21.02
-21. Kicki, Maksymilian 21.02
+21. [Kicki, Maksymilian] (https://github.com/mkicki/AsiApp)21.02
 22. Knitter, Tadeusz 21.02
-53. Kot, Kamil
+53. [Kot, Kamil](https://github.com/KotMeow/asi-frameworks)
 23. [Laskowski, Piotr](https://github.com/ozh204/Ruby-on-Rails). [Gofry](https://ozh204.herokuapp.com/)
 24. [Mazepa, Mariusz](https://bitbucket.org/mmazepa/asi_zaliczenie). [AnimalApp](https://mmazepa.herokuapp.com/)
 25. Onych, Aleksandra 21.02
@@ -79,7 +79,7 @@ Michael Hartl, [Learn Enough Git to Be Dangerous](https://www.learnenough.com/gi
 30. Pyszyńska, Martyna 21.02
 31. Sędek, Szymon
 63. Sadowski, Łukasz
-32. Stefański, Aleksander
+32. [Stefański, Aleksander](https://github.com/astefanski1/rubyApp)
 33. [Szymanowski, Grzegorz](https://github.com/gwszymanowski/Ruby-projekt-indywidualny). [Biblioteka ksiazek](https://biblioteka-ksiazek.herokuapp.com/)
 34. Świstun, Szymon
 35. Tejszerska, Aleksandra
